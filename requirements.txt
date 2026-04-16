@@ -1,0 +1,9 @@
+folktables
+fairlearn
+shap
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
