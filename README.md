@@ -4,9 +4,9 @@
 This project analyzes how bias in AI-driven income prediction (a proxy for hiring decisions) has evolved over time using U.S. Census data from 2014, 2018, and 2022. We train Random Forest classifiers, evaluate fairness across gender and race, apply bias mitigation, and analyze trade-offs between accuracy and fairness.
 
 ## Team Members
-- Abraham [Roll No]
-- [Member 2] [Roll No]
-- [Member 3] [Roll No]
+- Patnam Jahnavi [S20230010181]
+- Sahal Ansar [S20230010210]
+- Venkat Rahul [S20230010257]
 
 ## Dataset
 - **Source:** American Community Survey (ACS) Public Use Microdata Sample via the `folktables` Python package
